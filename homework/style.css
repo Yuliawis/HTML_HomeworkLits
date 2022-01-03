@@ -1,0 +1,18 @@
+body {
+    background-color: #573bbb;
+    color: white;
+    background-image: url("https://d1otjdv2bf0507.cloudfront.net/images/Article_Images/ImageForArticle_4983(1).jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.left-column, .central-column, .right-column {
+    background-color: rgb(0, 0, 0);
+    width: 1000;
+    height: 600;
+    border: 1px solid rgb(255, 255, 255);
+}
+.main-content-wrapper  {
+    display: flex;
+    flex-direction: row;
+}
